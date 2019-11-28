@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/kmandrup/ci-pipeline/_apis/build/status/kristianmandrup.pipelines-java?branchName=master)](https://dev.azure.com/kmandrup/ci-pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
